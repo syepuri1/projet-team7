@@ -41,7 +41,7 @@ public class sample {
 	      }
 
 	      if (flag == true) {
-	         System.out.println("\nRecords retrieved and displayed");
+	         System.out.println("\nRecords are retrieved and displayed");
 	      } else {
 	         System.out.println("Record not found");
 	      }
