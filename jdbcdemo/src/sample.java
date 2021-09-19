@@ -45,7 +45,7 @@ public class sample {
 	      } else {
 	         System.out.println("Record not found");
 	      }
-
+ 
 	      
 	      
 	      rs.close();
