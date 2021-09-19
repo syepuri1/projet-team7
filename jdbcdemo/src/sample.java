@@ -33,7 +33,7 @@ public class sample {
 	      // send and execute SQL query in Database software
 	      ResultSet rs = st.executeQuery(query);
 
-	      // process the ResultSet object
+	      // proces the ResultSet object
 	      boolean flag = false;
 	      while (rs.next()) {
 	         flag = true;
